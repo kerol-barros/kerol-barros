@@ -15,7 +15,7 @@
 <div>
 <a href = "mailto:kerolayne.barros@dqrtech.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/kerolayne-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<a href="[https://www.instagram.com/kerolcristinabr/](https://www.instagram.com/kerolcristinabr/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/kerolcristinabr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 	<img src="https://user-images.githubusercontent.com/110194786/233264900-e4166eb4-4d1d-4dfd-a9fa-6ef9ab4043e3.png" width=400px>
 	
