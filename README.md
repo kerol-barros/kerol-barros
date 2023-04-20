@@ -7,8 +7,9 @@
     <span>Hello world! 👋</span>
   </h1>
   <h4>
-    - Sou tech recruiter e estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎👩‍💻<br>
-    - Estou sempre divulgando oportunidades aqui na rede, então se você se tiver interesse em alguma delas, fique a vontade para me chamar.
+    Meu nome é Kerolayne, mas pode me chamar de Kerol. Sou estudante de psicologia e trabalho como tech recruiter 👩‍💻<br>
+    Estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎<br>
+    Estou sempre divulgando oportunidades aqui na rede, então se você se tiver interesse em alguma delas, fique a vontade para me chamar :)
   </h4>
   <div class="imagem-container">
     <img src="https://user-images.githubusercontent.com/110194786/233264900-e4166eb4-4d1d-4dfd-a9fa-6ef9ab4043e3.png" width="400px">
