@@ -1,7 +1,7 @@
 <spam align="center">
 
 - <Hello world!> 👋
-- Sou tech recruiter e estou procurando por você, que é uma pessoa apaixonada por tecnologia assim como eu 🔎👩‍💻
+- Sou tech recruiter e estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎👩‍💻
 - Estou sempre divulgando oportunidades aqui na rede, então se você se tiver interesse em alguma delas, fique a vontade para me chamar.
 - Meu contato: kerolayne.barros@dqrtech.com.br ✉️ 
 </spam>
