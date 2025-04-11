@@ -20,15 +20,6 @@ Sempre estou conectando **talentos incríveis** com **oportunidades em tecnologi
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kerol-barros&theme=gruvbox&no-frame=true&column=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📊 Minhas Stats no GitHub
-
-![Kerol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerol-barros&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerol-barros&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Vamos nos conectar?
 
 Se você viu algo interessante ou quer bater um papo, fique à vontade para me chamar:
