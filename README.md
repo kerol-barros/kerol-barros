@@ -1,33 +1,55 @@
-<!DOCTYPE html>
-<html>
+# 👋 Hello World! Bem-vindo(a) ao meu GitHub!
 
-</head>
-<body>
-  <h1>
-    <span>Hello world! 👋</span>
-  </h1>
-  <h4>
-    Meu nome é Kerolayne, mas pode me chamar de Kerol. 
-	  
-    Trabalho como tech recruiter e estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎
-    
-    Sempre divulgo oportunidades para profissionais de TI aqui na rede, então se você se tiver interesse em alguma delas, fique a vontade para me chamar :)
-  </h4>
-  <div class="imagem-container">
-    <img src="https://user-images.githubusercontent.com/110194786/233264900-e4166eb4-4d1d-4dfd-a9fa-6ef9ab4043e3.png" width="300px">
-    <img src="https://badges.devskiller.com/badges/4sDRLPn1nWVk9laCUjqkTW.png" width="250px" />
-  </div>
-  <div>
-    <a href="mailto:kerolayne.barros@dqrtech.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kerolayne-barros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/kerolcristinabr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  </div>
-</body>
-</html>
+<img src="https://user-images.githubusercontent.com/110194786/233264900-e4166eb4-4d1d-4dfd-a9fa-6ef9ab4043e3.png" width="250" align="right" />
 
-	
+## ✨ Sobre mim
 
-<!---
-kerol-barros/kerol-barros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Oi! Eu sou a **Kerolayne**, mas pode me chamar de **Kerol** 😊  
+Sou **Tech Recruiter** e uma verdadeira entusiasta do universo da tecnologia!  
+
+Sempre estou conectando **talentos incríveis** com **oportunidades em tecnologia**, e se você também é apaixonado(a) por esse universo, já temos algo em comum! 💜
+
+---
+
+## 💼 O que você encontra por aqui?
+
+- 📣 **Vagas atualizadas** para profissionais de TI (sim, sempre tem novidade!)
+- 🤖 Interesse crescente por **AI**, **Data** e tudo que envolve **tech trends**
+- 🤝 Conexões com pessoas incríveis da área
+- 🚀 Apoio para quem está buscando recolocação ou transição para TI
+
+---
+
+## ✨ Conquistas
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kerol-barros&theme=gruvbox&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📊 Minhas Stats no GitHub
+
+![Kerol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kerol-barros&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kerol-barros&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Vamos nos conectar?
+
+Se viu algo interessante ou quer bater um papo, fique à vontade para me chamar:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerolayne.barros@dqrtech.com.br)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolayne-barros/)
+
+---
+
+<img src="https://badges.devskiller.com/badges/4sDRLPn1nWVk9laCUjqkTW.png" width="200" />
+
+> _"Tecnologia conecta, transforma e inspira. E eu estou aqui para fazer parte dessa ponte."_ 🚀
+
+---
+
+![Mulher no computador gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
+
+<!--
+kerol-barros/kerol-barros é um ✨ repositório especial ✨ porque seu `README.md` aparece no seu perfil do GitHub.
+-->
