@@ -1,8 +1,6 @@
 # 👋 Hello World! Bem-vindo(a) ao meu GitHub!
 
-<img src="https://user-images.githubusercontent.com/110194786/233264900-e4166eb4-4d1d-4dfd-a9fa-6ef9ab4043e3.png" width="250" align="right" alt="Kerol tech banner" />
-
-✨ **Sobre mim**
+## ✨ **Sobre mim**
 
 Oi! Eu sou a **Kerolayne**, mas pode me chamar de **Kerol** 😊  
 Sou **Tech Recruiter** e uma verdadeira entusiasta do universo da tecnologia!  
