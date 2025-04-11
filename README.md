@@ -7,9 +7,9 @@
     <span>Hello world! 👋</span>
   </h1>
   <h4>
-    Meu nome é Kerolayne, mas pode me chamar de Kerol. <br>
+    Meu nome é Kerolayne, mas pode me chamar de Kerol. 
 	  
-    Trabalho como tech recruiter e estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎<br>
+    Trabalho como tech recruiter e estou procurando pessoas apaixonadas por tecnologia assim como eu 🔎
     
     Sempre divulgo oportunidades para profissionais de TI aqui na rede, então se você se tiver interesse em alguma delas, fique a vontade para me chamar :)
   </h4>
