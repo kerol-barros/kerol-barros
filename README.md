@@ -1,30 +1,34 @@
 # 👋 Hello World! Bem-vindo(a) ao meu GitHub!
 
-## ✨ **Sobre mim**
+## ✨ Sobre mim
 
-Oi! Eu sou a **Kerolayne**, mas pode me chamar de **Kerol** 😊  
-Sou **Tech Recruiter** e uma verdadeira entusiasta do universo da tecnologia!  
+Oi! Eu sou a **Kerolayne**, mas pode me chamar de **Kerol** 😊
+Sou **Tech Recruiter** e uma verdadeira entusiasta do universo da tecnologia — atuo conectando **talentos** e **oportunidades**, tanto em vagas técnicas quanto em posições de negócio dentro de tech.
 
-Sempre estou conectando **talentos incríveis** com **oportunidades em tecnologia**, e se você também é apaixonado(a) por esse universo, já temos algo em comum! 💜
+Hoje meu foco vai além de recrutar: busco entender cada vez mais de **dados e métricas de Talent Acquisition**, para tomar decisões mais estratégicas e ajudar times a contratar melhor. Se você também curte esse universo, já temos muito assunto! 💜
+
+---
 
 ## 💼 O que você encontra por aqui?
 
-- 📣 **Vagas atualizadas** para profissionais de TI (sim, sempre tem novidade!)
-- 🤖 Interesse crescente por **AI**, **Data** e tudo que envolve **tech trends**
-- 🤝 Conexões com pessoas incríveis da área
+- 📣 **Vagas atualizadas** para profissionais de TI (sempre tem novidade!)
+- 📊 Interesse crescente por **métricas de TA**, **dados** e **AI aplicada a recrutamento**
+- 🤝 Conexões com pessoas incríveis da área de tecnologia
 - 🚀 Apoio para quem está buscando recolocação ou transição para TI
 
 ---
 
-## ✨ Conquistas
+## 🛠️ No que estou de olho
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kerol-barros&theme=gruvbox&no-frame=true&column=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+`Talent Acquisition` · `People Analytics` · `AI & Data` · `Tech Trends` · `Recrutamento Tech`
+
+---
 
 ## 📫 Vamos nos conectar?
 
-Se você viu algo interessante ou quer bater um papo, fique à vontade para me chamar:
+Se você viu algo interessante por aqui ou quer bater um papo, fique à vontade para me chamar:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerolayne.barros@dqrtech.com.br)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kerolayne.barros@dqrtech.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerolayne-barros/)
 
 ---
@@ -36,5 +40,3 @@ Se você viu algo interessante ou quer bater um papo, fique à vontade para me c
 ---
 
 ![Mulher no computador gif](https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
-
----
